@@ -1,0 +1,120 @@
+{
+  "last_updated": "2026-08-19",
+  "target": "ChatGPT Context / Daily Briefing",
+  "upcoming_calendar_events": [
+    {
+      "summary": "LA28 ticket alert",
+      "start": "2026-08-18T10:00:00-07:00",
+      "end": "2026-08-20T10:00:00-07:00",
+      "calendar": "Primary",
+      "notes": "Look out for an email the day before your time slot opens with the link to access your assigned time slot.",
+      "url": "https://www.google.com/calendar/event?eid=XzZzczNhYzI1NjEzM2NiOW42NTEzaWI5azhvczNjYmEyNmwxM2ViOWc2OTFqNmRhMjY5MWs4Y2huNmMgdGhlLmluaXRlY2guY29ycG9yYXRpb25AbQ"
+    },
+    {
+      "summary": "CHECK FLIGHTS: LAX to Seoul & Sydney — Coralia Trip 2027",
+      "start": "2026-08-25",
+      "end": "2026-08-25",
+      "calendar": "Family",
+      "all_day": true,
+      "notes": "Flight booking window opens Aug-Sep 2026 for July 2027 dates. Routes: LAX to Seoul (ICN) / Sydney (SYD) business class; connecting legs to Bali (DPS) & Labuan Bajo (LBJ).",
+      "url": "https://www.google.com/calendar/event?eid=MWpxa2gzcHJlZnA3YzFjb3RiajlwcHBvNTAgZmFtaWx5MTc5NjgyMzcyMzYzNzA1MTQ0NDlAZw"
+    }
+  ],
+  "outstanding_tasks": {
+    "Operations & Launches": [
+      {
+        "title": "Check the status of the SpaceX Falcon 9 launch from Vandenberg",
+        "reminder": "2026-08-18 19:00 PDT",
+        "url": "https://tasks.google.com/task/HxJj1tG-Kx7zyS9K?sa=DLSA_GEMINI"
+      }
+    ],
+    "Business Operations & Finance": [
+      {
+        "title": "Enter time and invoices into QuickBooks",
+        "url": "https://tasks.google.com/task/rNBjxia1qha-ZgZJ?sa=DLSA_GEMINI"
+      },
+      {
+        "title": "Pay home insurance",
+        "url": "https://tasks.google.com/task/MEH-RfKg1kAjc_AX?sa=DLSA_GEMINI"
+      },
+      {
+        "title": "Estimated tax payment",
+        "reminder": "2026-09-15 09:00 PDT",
+        "url": "https://tasks.google.com/task/5Qj381qeZJxf65-Y?sa=DLSA_GEMINI"
+      }
+    ],
+    "Travel & Events": [
+      {
+        "title": "Check Chase Travel for Korea flights and hotel",
+        "reminder": "2026-08-28 09:00 PDT",
+        "notes": "Chase Travel 330-day booking window opens for late July 2027 flights and hotel (July 24 opens Aug 28; July 27 opens Aug 31).",
+        "url": "https://tasks.google.com/task/x2pidX7E0bXRvGdG?sa=DLSA_GEMINI"
+      },
+      {
+        "title": "Check for Comic-Con 2027 ticket release dates",
+        "reminder": "2026-11-01 09:00 PDT",
+        "url": "https://tasks.google.com/task/a0Am7kbTo5sGhup0?sa=DLSA_GEMINI"
+      }
+    ],
+    "Personal & Social": [
+      {
+        "title": "Confirm lunch with Steve (pending input)",
+        "url": "https://tasks.google.com/task/UFAegZ-GMkrZLdJ1?sa=DLSA_GEMINI"
+      },
+      {
+        "title": "Return bag of clothes to Steve (pending input)",
+        "url": "https://tasks.google.com/task/E1OHX2I5yF7rJcFh?sa=DLSA_GEMINI"
+      },
+      {
+        "title": "Assemble Crate and Barrel Bar Cart",
+        "url": "https://tasks.google.com/task/ITvjQZyW36edWR1-"
+      }
+    ]
+  },
+  "recently_completed_tasks": [
+    {
+      "title": "Back up Manus account data before Aug 22 deadline",
+      "description": "Manus is returning to independent operations. Export and back up account, subscription, and task data before Aug 23, 7:59 AM SGT (Aug 22, 4:59 PM PDT) for restoration on Aug 25.",
+      "url": "https://tasks.google.com/task/Fx6lRjyEt0t3d-sn?sa=DLSA_GEMINI"
+    },
+    {
+      "title": "Review Zapier AI Fluency webinar & ZapConnect agenda",
+      "description": "RSVP for Zapier's 'From Rubric to Reality: Operationalizing AI Fluency' webinar (Aug 20) and explore enterprise agent sessions for ZapConnect (Sept 23).",
+      "url": "https://tasks.google.com/task/Ee-20HW3ORbONZMV?sa=DLSA_GEMINI"
+    },
+    {
+      "title": "Audit Claude Code & agent architectures against Anthropic's 6 new rules",
+      "description": "Review CLAUDE.md progressive disclosure, shift from rigid rules to model judgment/structured interfaces, implement tree-based memory, and test /doctor-plus setup.",
+      "url": "https://tasks.google.com/task/mDKpyixdv4lYo3LG?sa=DLSA_GEMINI"
+    },
+    {
+      "title": "Fix Vercel GitHub collaborator permissions for LakeLouiseMBP",
+      "description": "Resolve failed deployment from LakeLouiseMBP on theinitechcorporation-7345 by checking GitHub authentication settings and team collaborator permissions.",
+      "url": "https://tasks.google.com/task/9Ih_jKd8j0gS8nZ6?sa=DLSA_GEMINI"
+    },
+    {
+      "title": "Cancel Crunchyroll subscription",
+      "url": "https://tasks.google.com/task/qjhiMWEacwqd1q1l?sa=DLSA_GEMINI"
+    },
+    {
+      "title": "Audit Jack Roberts' Hermes Agent Skills & Claude Design 2.0 systems",
+      "description": "Study Jack Roberts' Hermes Agent Skills architecture guide and Claude Design 2.0 systems to improve UI/UX output in client AI web apps.",
+      "url": "https://tasks.google.com/task/50eUJu8bnz11V9wI?sa=DLSA_GEMINI"
+    },
+    {
+      "title": "Examine Nick Saraev's 6-Hour Claude Code for Marketing course",
+      "description": "Audit Nick Saraev's 6-hour Claude Code for Marketing course to extract automation patterns for Reimer Original client marketing workflows.",
+      "url": "https://tasks.google.com/task/0wax7NItS3YAimIg?sa=DLSA_GEMINI"
+    },
+    {
+      "title": "Review Chase Hannegan's Claude Code Masterclass 2.0 modules",
+      "description": "Explore the updated Claude Code Masterclass 2.0 by Chase Hannegan, focusing on Supabase auth, custom lead enrichment skills, and loop engineering.",
+      "url": "https://tasks.google.com/task/uzxL6-BWdQoBIDzK?sa=DLSA_GEMINI"
+    },
+    {
+      "title": "Assess OpenAI GPT-5.6 Luna & Fast Mode for consulting workflows",
+      "description": "Evaluate GPT-5.6 Luna ($0.20/M input, 80% price reduction) for high-volume tool use and test API Fast mode (service_tier='fast') for GPT-5.6 Sol.",
+      "url": "https://tasks.google.com/task/HVzf04LEmuO70PLt?sa=DLSA_GEMINI"
+    }
+  ]
+}
