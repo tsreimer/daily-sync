@@ -2,8 +2,8 @@ name: Daily Google Doc Sync
 
 on:
   schedule:
-    # Runs daily at 15:15 UTC (8:15 AM PDT), 15 minutes after Gemini updates the Doc
-    - cron: '15 15 * * *'
+    # Runs daily at 15:10 UTC (8:10 AM PDT), 15 minutes after Gemini updates the Doc
+    - cron: '15 10 * * *'
   workflow_dispatch: # Allows manual trigger anytime from GitHub UI
 
 jobs:
