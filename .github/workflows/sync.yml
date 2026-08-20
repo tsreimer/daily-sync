@@ -1,0 +1,33 @@
+name: Daily Google Doc Sync
+
+on:
+  schedule:
+    # Runs daily at 15:15 UTC (8:15 AM PDT), 15 minutes after Gemini updates the Doc
+    - cron: '15 15 * * *'
+  workflow_dispatch: # Allows manual trigger anytime from GitHub UI
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Fetch latest sync from Google Doc
+        run: |
+          curl -sL "https://docs.google.com/document/d/1SswxcG76Dlh_-MsqPxGmPyS715ERN7GHfdoc_cLf4ZM/export?format=txt" -o daily_agenda_sync.md
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add daily_agenda_sync.md
+          if git diff --staged --quiet; then
+            echo "No changes detected."
+          else
+            git commit -m "Auto-sync daily agenda from Google Doc [skip ci]"
+            git push
+          fi
