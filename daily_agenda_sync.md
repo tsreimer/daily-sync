@@ -1,18 +1,18 @@
 ﻿Daily Sync Package: Google Tasks & Calendar
-Last Updated: August 20, 2026
+Last Updated: August 21, 2026
 Target: ChatGPT Context / Daily Briefing
 ________________
 
 
-📅 Upcoming Calendar Events (Next 7 Days: Aug 20 – Aug 27, 2026)
-* LA28 ticket alert
-   * Date/Time: Aug 18, 2026, 10:00 AM – Aug 20, 2026, 10:00 AM PDT (Ends today)
-   * Calendar: Primary
-   * Notes: Look out for an email the day before your time slot opens with the link to access your assigned time slot.
+📅 Upcoming Calendar Events (Next 7 Days: Aug 21 – Aug 28, 2026)
 * CHECK FLIGHTS: LAX to Seoul & Sydney — Coralia Trip 2027
    * Date: Aug 25, 2026 (All Day)
    * Calendar: Family
    * Notes: Flight booking window opens Aug-Sep 2026 for July 2027 dates. Routes: LAX to Seoul (ICN) / Sydney (SYD) business class; connecting legs to Bali (DPS) & Labuan Bajo (LBJ).
+* Check Chase Travel for Korea flights & hotel (July 2027 trip)
+   * Date/Time: Aug 28, 2026, 09:00 AM – 09:30 AM PDT
+   * Calendar: Primary
+   * Notes: Chase Travel 330-day booking window opens for late July 2027 Korea flights and hotel: July 24 departure opens August 28; July 27 departure opens August 31.
 ________________
 
 
