@@ -6,7 +6,7 @@ ________________
 
 📅 Upcoming Calendar Events (Next 7 Days: Aug 20 – Aug 27, 2026)
 * LA28 ticket alert
-   * Date/Time: Aug 18, 2026, 10:00 AM – Aug 20, 2026, 10:00 AM PDT
+   * Date/Time: Aug 18, 2026, 10:00 AM – Aug 20, 2026, 10:00 AM PDT (Ends today)
    * Calendar: Primary
    * Notes: Look out for an email the day before your time slot opens with the link to access your assigned time slot.
 * CHECK FLIGHTS: LAX to Seoul & Sydney — Coralia Trip 2027
@@ -21,7 +21,7 @@ ________________
 * Enter time and invoices into QuickBooks
 * Estimated tax payment (Reminder: Sept 15, 2026, 09:00 PDT)
 ✈️ Travel & Events
-* Check Chase Travel for Korea flights and hotel (Reminder: Aug 28, 2026, 09:00 PDT) — Chase Travel 330-day booking window opens for late July 2027 flights and hotel (July 24 opens Aug 28; July 27 opens Aug 31).
+* Check Chase Travel for Korea flights and hotel (Reminder: Aug 28, 2026, 09:00 PDT — 330-day booking window)
 * Check for Comic-Con 2027 ticket release dates (Reminder: Nov 1, 2026, 09:00 PDT)
 🏠 Personal & Social
 * Confirm lunch with Steve (pending input)
