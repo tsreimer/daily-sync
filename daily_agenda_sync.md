@@ -1,10 +1,10 @@
 ﻿Daily Sync Package: Google Tasks & Calendar
-Last Updated: August 21, 2026
+Last Updated: August 22, 2026
 Target: ChatGPT Context / Daily Briefing
 ________________
 
 
-📅 Upcoming Calendar Events (Next 7 Days: Aug 21 – Aug 28, 2026)
+📅 Upcoming Calendar Events (Next 7 Days: Aug 22 – Aug 29, 2026)
 * CHECK FLIGHTS: LAX to Seoul & Sydney — Coralia Trip 2027
    * Date: Aug 25, 2026 (All Day)
    * Calendar: Family
@@ -42,3 +42,6 @@ ________________
 * Examine Nick Saraev&apos;s 6-Hour Claude Code for Marketing course
 * Review Chase Hannegan&apos;s Claude Code Masterclass 2.0 modules
 * Assess OpenAI GPT-5.6 Luna & Fast Mode for consulting workflows
+* Review Robonuggets Claude Skill blueprint for PAYG media APIs
+* Test new Firecrawl MCP and Slack /monitor features
+* Evaluate Anam.ai plan options or wait for Aug 16 minute reset
