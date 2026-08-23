@@ -1,10 +1,10 @@
 ﻿Daily Sync Package: Google Tasks & Calendar
-Last Updated: August 22, 2026
+Last Updated: August 23, 2026
 Target: ChatGPT Context / Daily Briefing
 ________________
 
 
-📅 Upcoming Calendar Events (Next 7 Days: Aug 22 – Aug 29, 2026)
+📅 Upcoming Calendar Events (Next 7 Days: Aug 23 – Aug 30, 2026)
 * CHECK FLIGHTS: LAX to Seoul & Sydney — Coralia Trip 2027
    * Date: Aug 25, 2026 (All Day)
    * Calendar: Family
@@ -17,19 +17,20 @@ ________________
 
 
 📋 Outstanding Google Tasks (Categorized)
-💼 Business Operations & Finance
+💼 Business Operations & Marketing
+* Research Instagram account for Kickstarter referrals
 * Enter time and invoices into QuickBooks
 * Estimated tax payment (Reminder: Sept 15, 2026, 09:00 PDT)
 ✈️ Travel & Events
 * Check Chase Travel for Korea flights and hotel (Reminder: Aug 28, 2026, 09:00 PDT — 330-day booking window)
 * Check for Comic-Con 2027 ticket release dates (Reminder: Nov 1, 2026, 09:00 PDT)
-🏠 Personal & Social
+🏡 Personal & Social
 * Confirm lunch with Steve (pending input)
-* Return bag of clothes to Steve (pending input)
 ________________
 
 
 ✅ Recently Completed Tasks
+* Return bag of clothes to Steve (pending input)
 * Check the status of the SpaceX Falcon 9 launch from Vandenberg
 * Pay home insurance
 * Assemble Crate and Barrel Bar Cart
