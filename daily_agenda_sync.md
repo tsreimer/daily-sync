@@ -1,14 +1,14 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** August 23, 2026
+**Last Updated:** August 24, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Aug 23 – Aug 30, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Aug 24 – Aug 31, 2026)
 
 
 * **CHECK FLIGHTS: LAX to Seoul & Sydney — Coralia Trip 2027**
