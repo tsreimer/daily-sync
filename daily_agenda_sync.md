@@ -1,20 +1,16 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** August 25, 2026
+**Last Updated:** August 26, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Aug 25 – Sep 1, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Aug 26 – Sep 2, 2026)
 
 
-* **CHECK FLIGHTS: LAX to Seoul & Sydney — Coralia Trip 2027**
-  * **Date/Time:** Aug 24, 2026 (All Day)
-  * **Calendar:** Family
-  * **Notes:** Flight booking window opens Aug-Sep 2026 for July 2027 dates. ACTION ITEMS: 1. Go to Google Flights (flights.google.com) 2. Search each route below and click the bell icon to set a price alert OUTBOUN
 * **Check Chase Travel for Korea flights & hotel (July 2027 trip)**
   * **Date/Time:** Aug 28, 2026, 09:00 AM – 09:30 AM PDT
   * **Calendar:** Primary
@@ -25,11 +21,6 @@
 
 
 ## 📋 Outstanding Google Tasks (Categorized)
-
-
-### Work
-* Research Instagram account for Kickstarter referrals
-* Enter time and invoices into QuickBooks
 
 
 ### Friends
