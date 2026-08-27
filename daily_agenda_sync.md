@@ -1,14 +1,14 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** August 26, 2026
+**Last Updated:** August 27, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Aug 26 – Sep 2, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Aug 27 – Sep 3, 2026)
 
 
 * **Check Chase Travel for Korea flights & hotel (July 2027 trip)**
