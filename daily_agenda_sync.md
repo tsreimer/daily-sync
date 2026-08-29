@@ -1,20 +1,17 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** August 28, 2026
+**Last Updated:** August 29, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Aug 28 – Sep 4, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Aug 29 – Sep 5, 2026)
 
 
-* **Check Chase Travel for Korea flights & hotel (July 2027 trip)**
-  * **Date/Time:** Aug 28, 2026, 09:00 AM – 09:30 AM PDT
-  * **Calendar:** Primary
-  * **Notes:** Chase Travel 330-day booking window opens for late July 2027 Korea flights and hotel: • July 24, 2027 departure opens: August 28, 2026 • July 27, 2027 departure opens: August 31, 2026
+*No events scheduled for the next 7 days.*
 
 
 ---
@@ -32,6 +29,7 @@
 
 
 ### Personal
+* Checkpoint to cancel Gina monthly subscription *(Reminder/Due: Sep 24, 2026)*
 * Cancel YouTube membership for Victor Oddybefore September 22
 * Check for Comic-Con 2027 ticket release dates *(Reminder/Due: Oct 31, 2026)*
 
