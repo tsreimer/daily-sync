@@ -1,14 +1,14 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** August 29, 2026
+**Last Updated:** August 30, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Aug 29 – Sep 5, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Aug 30 – Sep 6, 2026)
 
 
 *No events scheduled for the next 7 days.*
@@ -29,6 +29,7 @@
 
 
 ### Personal
+* Redeem Costco gift cards on PlayStation network
 * Checkpoint to cancel Gina monthly subscription *(Reminder/Due: Sep 24, 2026)*
 * Cancel YouTube membership for Victor Oddybefore September 22
 * Check for Comic-Con 2027 ticket release dates *(Reminder/Due: Oct 31, 2026)*
