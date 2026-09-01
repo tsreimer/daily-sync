@@ -1,14 +1,14 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** August 31, 2026
+**Last Updated:** September 1, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Aug 31 – Sep 7, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Sep 1 – Sep 8, 2026)
 
 
 *No events scheduled for the next 7 days.*
@@ -20,8 +20,23 @@
 ## 📋 Outstanding Google Tasks (Categorized)
 
 
+### Default List
+* Test Claude Code persistent subagent memory & /claudex-loop pattern *(Reminder/Due: Sep 3, 2026)*
+* Register for Anthropic Claude Code webinar (Sept 10) *(Reminder/Due: Sep 3, 2026)*
+* Review ChatGPT Business seat tiers before Sep 1 renewal *(Reminder/Due: Aug 30, 2026)*
+* Regenerate GitHub personal access token 'Cowork Push' *(Reminder/Due: Aug 31, 2026)*
+
+
+### Work
+* Quarterly Payroll
+
+
 ### Friends
 * Confirm lunch with Steve (pending input) *(Reminder/Due: Jul 12, 2026)*
+
+
+### Groceries
+* Creatine Monohydrate
 
 
 ### Finance
@@ -36,7 +51,7 @@
 
 
 ### Travel
-* Check Chase Travel for Korea flights and hotel *(Reminder/Due: Aug 27, 2026)*
+* Check Chase Travel for Korea flights and hotel *(Reminder/Due: Sep 3, 2026)*
 
 
 ---
