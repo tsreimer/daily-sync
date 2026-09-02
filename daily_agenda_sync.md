@@ -1,14 +1,14 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** September 1, 2026
+**Last Updated:** September 2, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Sep 1 – Sep 8, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Sep 2 – Sep 9, 2026)
 
 
 *No events scheduled for the next 7 days.*
@@ -23,8 +23,6 @@
 ### Default List
 * Test Claude Code persistent subagent memory & /claudex-loop pattern *(Reminder/Due: Sep 3, 2026)*
 * Register for Anthropic Claude Code webinar (Sept 10) *(Reminder/Due: Sep 3, 2026)*
-* Review ChatGPT Business seat tiers before Sep 1 renewal *(Reminder/Due: Aug 30, 2026)*
-* Regenerate GitHub personal access token 'Cowork Push' *(Reminder/Due: Aug 31, 2026)*
 
 
 ### Work
@@ -60,6 +58,8 @@
 ## ✅ Recently Completed Tasks
 
 
+* Review ChatGPT Business seat tiers before Sep 1 renewal
+* Regenerate GitHub personal access token 'Cowork Push'
 * Configure Claude Code autoMode security rules & test /design
 * Review Zapier 4-job AI workflow framework for client proposals
 * Evaluate ARMS Agentic OS framework for Reimer Original client blueprints
@@ -73,5 +73,3 @@
 * Audit Jack Roberts' Hermes Agent Skills & Claude Design 2.0 systems
 * Examine Nick Saraev's 6-Hour Claude Code for Marketing course
 * Identify top ERP/professional services consulting contacts for outreach
-* Test new Firecrawl MCP and Slack /monitor features
-* Review Robonuggets Claude Skill blueprint for PAYG media APIs
