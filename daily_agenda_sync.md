@@ -1,14 +1,14 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** September 7, 2026
+**Last Updated:** September 8, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Sep 7 – Sep 14, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Sep 8 – Sep 15, 2026)
 
 
 * **Kubra's Birthday**
@@ -20,6 +20,13 @@
 
 
 ## 📋 Outstanding Google Tasks (Categorized)
+
+
+### Default List
+* Evaluate 90-Minute Claude Build Session offer format for Reimer Original *(Reminder/Due: Sep 10, 2026)*
+* Review Fable 5.1 Agentic OS & Obsidian voice command center *(Reminder/Due: Sep 10, 2026)*
+* Test Firecrawl spark-2 /agent and free Research Index *(Reminder/Due: Sep 9, 2026)*
+* Benchmark GPT-6 Astra vs Claude Fable 5.1 for client workflows *(Reminder/Due: Sep 8, 2026)*
 
 
 ### Work
