@@ -1,14 +1,14 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** September 10, 2026
+**Last Updated:** September 11, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Sep 10 – Sep 17, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Sep 11 – Sep 18, 2026)
 
 
 * **Kubra's Birthday**
@@ -20,13 +20,6 @@
 
 
 ## 📋 Outstanding Google Tasks (Categorized)
-
-
-### Default List
-* Evaluate 90-Minute Claude Build Session offer format for Reimer Original *(Reminder/Due: Sep 10, 2026)*
-* Review Fable 5.1 Agentic OS & Obsidian voice command center *(Reminder/Due: Sep 10, 2026)*
-* Test Firecrawl spark-2 /agent and free Research Index *(Reminder/Due: Sep 9, 2026)*
-* Benchmark GPT-6 Astra vs Claude Fable 5.1 for client workflows *(Reminder/Due: Sep 8, 2026)*
 
 
 ### Work
@@ -54,6 +47,10 @@
 ## ✅ Recently Completed Tasks
 
 
+* Test Firecrawl spark-2 /agent and free Research Index
+* Benchmark GPT-6 Astra vs Claude Fable 5.1 for client workflows
+* Review Fable 5.1 Agentic OS & Obsidian voice command center
+* Evaluate 90-Minute Claude Build Session offer format for Reimer Original
 * Test Claude Code persistent subagent memory & /claudex-loop pattern
 * Register for Anthropic Claude Code webinar (Sept 10)
 * Review ChatGPT Business seat tiers before Sep 1 renewal
@@ -65,7 +62,3 @@
 * Check the status of the SpaceX Falcon 9 launch from Vandenberg
 * Back up Manus account data before Aug 22 deadline
 * Review Zapier AI Fluency webinar & ZapConnect agenda
-* Audit Claude Code & agent architectures against Anthropic's 6 new rules
-* Fix Vercel GitHub collaborator permissions for LakeLouiseMBP
-* Review Chase Hannegan's Claude Code Masterclass 2.0 modules
-* Audit Jack Roberts' Hermes Agent Skills & Claude Design 2.0 systems
