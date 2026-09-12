@@ -1,19 +1,17 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** September 11, 2026
+**Last Updated:** September 12, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Sep 11 – Sep 18, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Sep 12 – Sep 19, 2026)
 
 
-* **Kubra's Birthday**
-  * **Date/Time:** Sep 11, 2026 (All Day)
-  * **Calendar:** Primary
+*No events scheduled for the next 7 days.*
 
 
 ---
@@ -22,8 +20,17 @@
 ## 📋 Outstanding Google Tasks (Categorized)
 
 
+### Default List
+* List Crate & Barrel chairs for sale on Facebook marketplace
+* Use up Dreamina Video Gen Credits before they reset! *(Reminder/Due: Sep 24, 2026)*
+
+
 ### Work
 * Quarterly Payroll
+
+
+### Shopping
+* Spent $40 Crate and Barrel reward before it expires *(Reminder/Due: Sep 28, 2026)*
 
 
 ### Finance
@@ -32,13 +39,12 @@
 
 ### Personal
 * Redeem Costco gift cards on PlayStation network
-* Checkpoint to cancel Gina monthly subscription *(Reminder/Due: Sep 24, 2026)*
 * Cancel YouTube membership for Victor Oddybefore September 22
 * Check for Comic-Con 2027 ticket release dates *(Reminder/Due: Oct 31, 2026)*
 
 
 ### Travel
-* Check Chase Travel for Korea flights and hotel *(Reminder/Due: Sep 3, 2026)*
+* Check Chase Travel for Korea flights and hotel *(Reminder/Due: Sep 17, 2026)*
 
 
 ---
