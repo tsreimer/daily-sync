@@ -1,14 +1,14 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** September 14, 2026
+**Last Updated:** September 15, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Sep 14 – Sep 21, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Sep 15 – Sep 22, 2026)
 
 
 *No events scheduled for the next 7 days.*
@@ -21,6 +21,9 @@
 
 
 ### Default List
+* Review Anthropic 'What to Build Instead of AI Agents' framework *(Reminder/Due: Sep 17, 2026)*
+* Evaluate GPT-6 Astra computer use & 3-part prompt architecture *(Reminder/Due: Sep 16, 2026)*
+* Configure Claude Code subagent model & test /claude-api prompt-audit *(Reminder/Due: Sep 15, 2026)*
 * List Crate & Barrel chairs for sale on Facebook marketplace
 * Use up Dreamina Video Gen Credits before they reset! *(Reminder/Due: Sep 24, 2026)*
 
