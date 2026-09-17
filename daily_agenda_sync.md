@@ -1,14 +1,14 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** September 16, 2026
+**Last Updated:** September 17, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Sep 16 – Sep 23, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Sep 17 – Sep 24, 2026)
 
 
 *No events scheduled for the next 7 days.*
@@ -34,10 +34,6 @@
 
 ### Shopping
 * Spent $40 Crate and Barrel reward before it expires *(Reminder/Due: Sep 28, 2026)*
-
-
-### Finance
-* Estimated tax payment *(Reminder/Due: Sep 14, 2026)*
 
 
 ### Personal
