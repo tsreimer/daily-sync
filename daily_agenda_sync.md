@@ -1,14 +1,14 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** September 17, 2026
+**Last Updated:** September 18, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Sep 17 – Sep 24, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Sep 18 – Sep 25, 2026)
 
 
 *No events scheduled for the next 7 days.*
@@ -43,6 +43,7 @@
 
 
 ### Travel
+* Get scuba regulator serviced ahead of Cayman Island trip
 * Check Chase Travel for Korea flights and hotel *(Reminder/Due: Sep 17, 2026)*
 
 
