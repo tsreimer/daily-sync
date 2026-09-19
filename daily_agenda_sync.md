@@ -1,14 +1,14 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** September 18, 2026
+**Last Updated:** September 19, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Sep 18 – Sep 25, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Sep 19 – Sep 26, 2026)
 
 
 *No events scheduled for the next 7 days.*
@@ -32,12 +32,7 @@
 * Quarterly Payroll
 
 
-### Shopping
-* Spent $40 Crate and Barrel reward before it expires *(Reminder/Due: Sep 28, 2026)*
-
-
 ### Personal
-* Redeem Costco gift cards on PlayStation network
 * Cancel YouTube membership for Victor Oddybefore September 22
 * Check for Comic-Con 2027 ticket release dates *(Reminder/Due: Oct 31, 2026)*
 
