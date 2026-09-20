@@ -1,17 +1,24 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** September 19, 2026
+**Last Updated:** September 20, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Sep 19 – Sep 26, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Sep 20 – Sep 27, 2026)
 
 
-*No events scheduled for the next 7 days.*
+* **Stay at Hotel Terra Jackson Hole**
+  * **Date/Time:** Sep 26, 2026, 04:00 PM – 12:00 PM PDT
+  * **Calendar:** Primary
+  * **Notes:** 5 Nights, Hotel Terra Jackson Hole, 3335 West Village Drive, Teton Village WY US 83025, US
+* **Steadfire Chophouse**
+  * **Date/Time:** Sep 26, 2026, 05:30 PM – 07:30 PM PDT
+  * **Calendar:** Primary
+  * **Notes:** (307) 732-5620 From ember to table, Steadfire Chophouse celebrates Wyoming’s rich bounty and untamed spirit. We source heritage cuts and wild game from regional ranches including 22 Wagyu, Reminisce R
 
 
 ---
