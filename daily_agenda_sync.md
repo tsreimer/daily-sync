@@ -1,14 +1,14 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** September 20, 2026
+**Last Updated:** September 21, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Sep 20 – Sep 27, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Sep 21 – Sep 28, 2026)
 
 
 * **Stay at Hotel Terra Jackson Hole**
@@ -33,10 +33,6 @@
 * Configure Claude Code subagent model & test /claude-api prompt-audit *(Reminder/Due: Sep 15, 2026)*
 * List Crate & Barrel chairs for sale on Facebook marketplace
 * Use up Dreamina Video Gen Credits before they reset! *(Reminder/Due: Sep 24, 2026)*
-
-
-### Work
-* Quarterly Payroll
 
 
 ### Personal
