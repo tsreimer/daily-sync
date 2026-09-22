@@ -1,14 +1,14 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** September 21, 2026
+**Last Updated:** September 22, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Sep 21 – Sep 28, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Sep 22 – Sep 29, 2026)
 
 
 * **Stay at Hotel Terra Jackson Hole**
@@ -28,6 +28,10 @@
 
 
 ### Default List
+* Evaluate Claude Code Projects beta & subagent omitClaudeMd *(Reminder/Due: Sep 24, 2026)*
+* Attend ZapConnect 2026 virtual conference (Sept 23, 9am PT) *(Reminder/Due: Sep 22, 2026)*
+* Audit custom GPTs and plan migration to ChatGPT Plugins *(Reminder/Due: Sep 23, 2026)*
+* Test ChatGPT for Word add-in during free Sol preview *(Reminder/Due: Sep 22, 2026)*
 * Review Anthropic 'What to Build Instead of AI Agents' framework *(Reminder/Due: Sep 17, 2026)*
 * Evaluate GPT-6 Astra computer use & 3-part prompt architecture *(Reminder/Due: Sep 16, 2026)*
 * Configure Claude Code subagent model & test /claude-api prompt-audit *(Reminder/Due: Sep 15, 2026)*
@@ -36,7 +40,6 @@
 
 
 ### Personal
-* Cancel YouTube membership for Victor Oddybefore September 22
 * Check for Comic-Con 2027 ticket release dates *(Reminder/Due: Oct 31, 2026)*
 
 
