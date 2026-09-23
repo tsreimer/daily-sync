@@ -1,14 +1,14 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** September 22, 2026
+**Last Updated:** September 23, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Sep 22 – Sep 29, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Sep 23 – Sep 30, 2026)
 
 
 * **Stay at Hotel Terra Jackson Hole**
@@ -19,6 +19,10 @@
   * **Date/Time:** Sep 26, 2026, 05:30 PM – 07:30 PM PDT
   * **Calendar:** Primary
   * **Notes:** (307) 732-5620 From ember to table, Steadfire Chophouse celebrates Wyoming’s rich bounty and untamed spirit. We source heritage cuts and wild game from regional ranches including 22 Wagyu, Reminisce R
+* **Gather - Jackson Hole**
+  * **Date/Time:** Sep 29, 2026, 05:30 PM – 07:30 PM PDT
+  * **Calendar:** Primary
+  * **Notes:** (307) 264-1820 Enjoy our famous Brussel Sprouts, Steamed Pork Buns, Vegan &amp; Veggie Dishes, Steak, Bison, Salmon, Fried Chicken, House Made Pastas or our to-die-for  Charcuterie board (best in town
 
 
 ---
