@@ -1,14 +1,14 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** September 23, 2026
+**Last Updated:** September 24, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Sep 23 – Sep 30, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Sep 24 – Oct 1, 2026)
 
 
 * **Stay at Hotel Terra Jackson Hole**
@@ -23,6 +23,10 @@
   * **Date/Time:** Sep 29, 2026, 05:30 PM – 07:30 PM PDT
   * **Calendar:** Primary
   * **Notes:** (307) 264-1820 Enjoy our famous Brussel Sprouts, Steamed Pork Buns, Vegan &amp; Veggie Dishes, Steak, Bison, Salmon, Fried Chicken, House Made Pastas or our to-die-for  Charcuterie board (best in town
+* **Kampai JH**
+  * **Date/Time:** Sep 30, 2026, 06:00 PM – 08:00 PM PDT
+  * **Calendar:** Primary
+  * **Notes:** (307) 201-5329 Chef Chris Massad, of San Francisco's Akiko's, Pabu and Nobu, brings his take on Japanese cuisine to Wyoming to showcase elevated versions of new and familiar sushi preparations. Kampai
 
 
 ---
@@ -33,7 +37,6 @@
 
 ### Default List
 * Evaluate Claude Code Projects beta & subagent omitClaudeMd *(Reminder/Due: Sep 24, 2026)*
-* Attend ZapConnect 2026 virtual conference (Sept 23, 9am PT) *(Reminder/Due: Sep 22, 2026)*
 * Audit custom GPTs and plan migration to ChatGPT Plugins *(Reminder/Due: Sep 23, 2026)*
 * Test ChatGPT for Word add-in during free Sol preview *(Reminder/Due: Sep 22, 2026)*
 * Review Anthropic 'What to Build Instead of AI Agents' framework *(Reminder/Due: Sep 17, 2026)*
@@ -58,6 +61,7 @@
 ## ✅ Recently Completed Tasks
 
 
+* Attend ZapConnect 2026 virtual conference (Sept 23, 9am PT)
 * Test Firecrawl spark-2 /agent and free Research Index
 * Benchmark GPT-6 Astra vs Claude Fable 5.1 for client workflows
 * Review Fable 5.1 Agentic OS & Obsidian voice command center
@@ -72,4 +76,3 @@
 * Test DeepSeek Harness and Stealth OX Alpha for low-cost agent pipelines
 * Check the status of the SpaceX Falcon 9 launch from Vandenberg
 * Back up Manus account data before Aug 22 deadline
-* Review Zapier AI Fluency webinar & ZapConnect agenda
