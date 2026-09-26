@@ -1,14 +1,14 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** September 25, 2026
+**Last Updated:** September 26, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Sep 25 – Oct 2, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Sep 26 – Oct 3, 2026)
 
 
 * **Stay at Hotel Terra Jackson Hole**
