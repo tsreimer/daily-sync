@@ -1,24 +1,20 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** September 29, 2026
+**Last Updated:** September 30, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Sep 29 – Oct 6, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Sep 30 – Oct 7, 2026)
 
 
 * **Stay at Hotel Terra Jackson Hole**
   * **Date/Time:** Sep 26, 2026, 04:00 PM – 12:00 PM PDT
   * **Calendar:** Primary
   * **Notes:** 5 Nights, Hotel Terra Jackson Hole, 3335 West Village Drive, Teton Village WY US 83025, US
-* **Gather - Jackson Hole**
-  * **Date/Time:** Sep 29, 2026, 05:30 PM – 07:30 PM PDT
-  * **Calendar:** Primary
-  * **Notes:** (307) 264-1820 Enjoy our famous Brussel Sprouts, Steamed Pork Buns, Vegan &amp; Veggie Dishes, Steak, Bison, Salmon, Fried Chicken, House Made Pastas or our to-die-for  Charcuterie board (best in town
 * **Kampai JH**
   * **Date/Time:** Sep 30, 2026, 06:00 PM – 08:00 PM PDT
   * **Calendar:** Primary
