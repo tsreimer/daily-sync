@@ -1,24 +1,20 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** September 30, 2026
+**Last Updated:** October 1, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Sep 30 – Oct 7, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Oct 1 – Oct 8, 2026)
 
 
 * **Stay at Hotel Terra Jackson Hole**
   * **Date/Time:** Sep 26, 2026, 04:00 PM – 12:00 PM PDT
   * **Calendar:** Primary
   * **Notes:** 5 Nights, Hotel Terra Jackson Hole, 3335 West Village Drive, Teton Village WY US 83025, US
-* **Kampai JH**
-  * **Date/Time:** Sep 30, 2026, 06:00 PM – 08:00 PM PDT
-  * **Calendar:** Primary
-  * **Notes:** (307) 201-5329 Chef Chris Massad, of San Francisco's Akiko's, Pabu and Nobu, brings his take on Japanese cuisine to Wyoming to showcase elevated versions of new and familiar sushi preparations. Kampai
 
 
 ---
@@ -31,7 +27,6 @@
 * Evaluate Zapier MCP & Agentic Mode for client workflows *(Reminder/Due: Oct 1, 2026)*
 * Send PayPal info to Carla Agustin for RoboNuggets $100 prize *(Reminder/Due: Sep 28, 2026)*
 * Redeem Claude Code usage limit reset before Oct 22 deadline *(Reminder/Due: Oct 14, 2026)*
-* Review ChatGPT Business seat allocation & raise limits before Oct 1 *(Reminder/Due: Sep 28, 2026)*
 
 
 ### Personal
@@ -48,6 +43,7 @@
 ## ✅ Recently Completed Tasks
 
 
+* Review ChatGPT Business seat allocation & raise limits before Oct 1
 * Use up Dreamina Video Gen Credits before they reset!
 * Audit custom GPTs and plan migration to ChatGPT Plugins
 * Evaluate Claude Code Projects beta & subagent omitClaudeMd
@@ -62,4 +58,3 @@
 * Review Fable 5.1 Agentic OS & Obsidian voice command center
 * Evaluate 90-Minute Claude Build Session offer format for Reimer Original
 * Test Claude Code persistent subagent memory & /claudex-loop pattern
-* Register for Anthropic Claude Code webinar (Sept 10)
