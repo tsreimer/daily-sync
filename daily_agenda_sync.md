@@ -1,20 +1,17 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** October 1, 2026
+**Last Updated:** October 2, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Oct 1 – Oct 8, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Oct 2 – Oct 9, 2026)
 
 
-* **Stay at Hotel Terra Jackson Hole**
-  * **Date/Time:** Sep 26, 2026, 04:00 PM – 12:00 PM PDT
-  * **Calendar:** Primary
-  * **Notes:** 5 Nights, Hotel Terra Jackson Hole, 3335 West Village Drive, Teton Village WY US 83025, US
+*No events scheduled for the next 7 days.*
 
 
 ---
