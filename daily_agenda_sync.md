@@ -1,14 +1,14 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** October 12, 2026
+**Last Updated:** October 13, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Oct 12 – Oct 19, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Oct 13 – Oct 20, 2026)
 
 
 *No events scheduled for the next 7 days.*
@@ -21,6 +21,10 @@
 
 
 ### Default List
+* Test HeyGen Video 1.0 API for client demo workflows *(Reminder/Due: Oct 15, 2026)*
+* Benchmark Claude Haiku 5.5 for agent routing and micro-tasks *(Reminder/Due: Oct 14, 2026)*
+* Review ChatGPT workspace discovery before Oct 15 rename *(Reminder/Due: Oct 13, 2026)*
+* Raise Claude API spend limit to unpause $100 credits *(Reminder/Due: Oct 12, 2026)*
 * Redeem Claude Code usage limit reset before Oct 22 deadline *(Reminder/Due: Oct 14, 2026)*
 
 
