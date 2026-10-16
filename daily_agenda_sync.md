@@ -1,14 +1,14 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** October 15, 2026
+**Last Updated:** October 16, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Oct 15 – Oct 22, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Oct 16 – Oct 23, 2026)
 
 
 *No events scheduled for the next 7 days.*
@@ -22,9 +22,6 @@
 
 ### Default List
 * Test HeyGen Video 1.0 API for client demo workflows *(Reminder/Due: Oct 15, 2026)*
-* Benchmark Claude Haiku 5.5 for agent routing and micro-tasks *(Reminder/Due: Oct 14, 2026)*
-* Review ChatGPT workspace discovery before Oct 15 rename *(Reminder/Due: Oct 13, 2026)*
-* Redeem Claude Code usage limit reset before Oct 22 deadline *(Reminder/Due: Oct 14, 2026)*
 
 
 ### Personal
@@ -41,6 +38,9 @@
 ## ✅ Recently Completed Tasks
 
 
+* Benchmark Claude Haiku 5.5 for agent routing and micro-tasks
+* Review ChatGPT workspace discovery before Oct 15 rename
+* Redeem Claude Code usage limit reset before Oct 22 deadline
 * Raise Claude API spend limit to unpause $100 credits
 * Evaluate ChatGPT Space & GPT-6.1 Sol for client consulting architectures
 * Test Jev front-router and jev-compaction-plus in agent workflows
@@ -53,6 +53,3 @@
 * Audit custom GPTs and plan migration to ChatGPT Plugins
 * Evaluate Claude Code Projects beta & subagent omitClaudeMd
 * List Crate & Barrel chairs for sale on Facebook marketplace
-* Configure Claude Code subagent model & test /claude-api prompt-audit
-* Evaluate GPT-6 Astra computer use & 3-part prompt architecture
-* Review Anthropic 'What to Build Instead of AI Agents' framework
