@@ -1,14 +1,14 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** October 19, 2026
+**Last Updated:** October 20, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Oct 19 – Oct 26, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Oct 20 – Oct 27, 2026)
 
 
 *No events scheduled for the next 7 days.*
@@ -21,6 +21,10 @@
 
 
 ### Default List
+* Review AssemblyAI Voice Standard Bench for client voice architectures *(Reminder/Due: Oct 22, 2026)*
+* Test Claude Code nested parallel sessions & subagent effort overrides *(Reminder/Due: Oct 21, 2026)*
+* Evaluate OpenAI Dots always-on agents for client operations *(Reminder/Due: Oct 20, 2026)*
+* Fix critical Row-Level Security vulnerability in Supabase project *(Reminder/Due: Oct 19, 2026)*
 * Test HeyGen Video 1.0 API for client demo workflows *(Reminder/Due: Oct 15, 2026)*
 
 
