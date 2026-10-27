@@ -1,14 +1,14 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** October 26, 2026
+**Last Updated:** October 27, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Oct 26 – Nov 2, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Oct 27 – Nov 3, 2026)
 
 
 * **Cancel May's American Express Platinum card**
@@ -23,6 +23,10 @@
 
 
 ### Default List
+* Review RUBRIC Agentic OS v2.0 & Claude 5.5 skills *(Reminder/Due: Oct 29, 2026)*
+* Attend live training: 7-step roadmap to $20K/mo retainer clients *(Reminder/Due: Oct 28, 2026)*
+* Test ChatGPT Slides & Data Agent Plugin for client deliverables *(Reminder/Due: Oct 27, 2026)*
+* Raise Claude API spend threshold to unpause account *(Reminder/Due: Oct 26, 2026)*
 * Review AssemblyAI Voice Standard Bench for client voice architectures *(Reminder/Due: Oct 22, 2026)*
 * Test HeyGen Video 1.0 API for client demo workflows *(Reminder/Due: Oct 15, 2026)*
 
