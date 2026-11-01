@@ -1,14 +1,14 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** October 31, 2026
+**Last Updated:** November 1, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Oct 31 – Nov 7, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Nov 1 – Nov 8, 2026)
 
 
 * **Cancel May's American Express Platinum card**
