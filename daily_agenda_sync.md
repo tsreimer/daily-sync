@@ -1,17 +1,24 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** November 2, 2026
+**Last Updated:** November 3, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Nov 2 – Nov 9, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Nov 3 – Nov 10, 2026)
 
 
-*No events scheduled for the next 7 days.*
+* **Reminder: Everyday AI build at 9 AM**
+  * **Date/Time:** Nov 3, 2026, 08:45 AM – 08:50 AM PST
+  * **Calendar:** Primary
+  * **Notes:** Reminder for the Everyday AI TikTok short build session at 9 AM.
+* **Everyday AI TikTok Short - Build**
+  * **Date/Time:** Nov 3, 2026, 09:00 AM – 10:00 AM PST
+  * **Calendar:** Primary
+  * **Notes:** Build session for the Everyday AI TikTok short.
 
 
 ---
@@ -21,6 +28,10 @@
 
 
 ### Default List
+* Assess ChatGPT Business Premium 2x allowance & unified Work tab *(Reminder/Due: Nov 5, 2026)*
+* Benchmark AssemblyAI-TTS-1 & Anam Cara-4.1 for voice agents *(Reminder/Due: Nov 4, 2026)*
+* Evaluate Jev for Images for low-cost visual classification *(Reminder/Due: Nov 3, 2026)*
+* Review Supabase staging project status before auto-pause *(Reminder/Due: Nov 2, 2026)*
 * Review AssemblyAI Voice Standard Bench for client voice architectures *(Reminder/Due: Oct 22, 2026)*
 
 
