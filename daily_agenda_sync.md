@@ -1,14 +1,14 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** November 8, 2026
+**Last Updated:** November 9, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Nov 8 – Nov 15, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Nov 9 – Nov 16, 2026)
 
 
 *No events scheduled for the next 7 days.*
