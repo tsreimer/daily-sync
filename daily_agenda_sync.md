@@ -1,14 +1,14 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** November 9, 2026
+**Last Updated:** November 10, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Nov 9 – Nov 16, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Nov 10 – Nov 17, 2026)
 
 
 *No events scheduled for the next 7 days.*
@@ -21,6 +21,10 @@
 
 
 ### Default List
+* Reply to Kevin Wu on Skool for AI consulting networking chat *(Reminder/Due: Nov 9, 2026)*
+* Attend Zapier webinar: What AI workflows cost at scale (Nov 12) *(Reminder/Due: Nov 10, 2026)*
+* Claim free monthly ChatGPT Ads credits for Reimer Original *(Reminder/Due: Nov 9, 2026)*
+* Regenerate GitHub PAT 'Daily Sync' before expiration *(Reminder/Due: Nov 8, 2026)*
 * Assess ChatGPT Business Premium 2x allowance & unified Work tab *(Reminder/Due: Nov 5, 2026)*
 * Benchmark AssemblyAI-TTS-1 & Anam Cara-4.1 for voice agents *(Reminder/Due: Nov 4, 2026)*
 * Evaluate Jev for Images for low-cost visual classification *(Reminder/Due: Nov 3, 2026)*
