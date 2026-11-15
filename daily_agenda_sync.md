@@ -1,17 +1,28 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** November 14, 2026
+**Last Updated:** November 15, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Nov 14 – Nov 21, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Nov 15 – Nov 22, 2026)
 
 
-*No events scheduled for the next 7 days.*
+* **Peloton: 30 min Glutes & Legs (Andy Speer)**
+  * **Date/Time:** Nov 15, 2026, 09:00 AM – 09:30 AM PST
+  * **Calendar:** Primary
+  * **Notes:** Class: https://members.onepeloton.com/classes/strength/?modal=classDetailsModal&classId=53451a64635047d2afdf0cd06c7a9e5e&categorySlug=strength Weights: 40-52.5 lb Bowflex for split squats, hip thrusts
+* **Peloton: 30 min Chest & Back (Jermaine Johnson)**
+  * **Date/Time:** Nov 17, 2026, 09:00 AM – 09:30 AM PST
+  * **Calendar:** Primary
+  * **Notes:** Class: https://members.onepeloton.com/classes/strength/?modal=classDetailsModal&classId=4726d2bdfcaf4c5abb6cf23fdad5fd09&categorySlug=strength Weights: rows 45-52.5 lb, chest press 45-50 lb, reverse f
+* **Peloton: 45 min Full Body (Jermaine Johnson)**
+  * **Date/Time:** Nov 19, 2026, 09:00 AM – 09:45 AM PST
+  * **Calendar:** Primary
+  * **Notes:** Class: https://members.onepeloton.com/classes/strength/?modal=classDetailsModal&classId=16a879c99e354820a58078be2ae510c9&categorySlug=strength Weights: RDL + rows 50-52.5 lb, goblet squat 52.5, overhe
 
 
 ---
