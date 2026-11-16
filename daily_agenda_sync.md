@@ -1,20 +1,16 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** November 15, 2026
+**Last Updated:** November 16, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Nov 15 – Nov 22, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Nov 16 – Nov 23, 2026)
 
 
-* **Peloton: 30 min Glutes & Legs (Andy Speer)**
-  * **Date/Time:** Nov 15, 2026, 09:00 AM – 09:30 AM PST
-  * **Calendar:** Primary
-  * **Notes:** Class: https://members.onepeloton.com/classes/strength/?modal=classDetailsModal&classId=53451a64635047d2afdf0cd06c7a9e5e&categorySlug=strength Weights: 40-52.5 lb Bowflex for split squats, hip thrusts
 * **Peloton: 30 min Chest & Back (Jermaine Johnson)**
   * **Date/Time:** Nov 17, 2026, 09:00 AM – 09:30 AM PST
   * **Calendar:** Primary
