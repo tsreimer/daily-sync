@@ -1,14 +1,14 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** November 16, 2026
+**Last Updated:** November 17, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Nov 16 – Nov 23, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Nov 17 – Nov 24, 2026)
 
 
 * **Peloton: 30 min Chest & Back (Jermaine Johnson)**
@@ -28,6 +28,10 @@
 
 
 ### Default List
+* Check OpenAI $500/mo API credit eligibility & Sign in with ChatGPT tools *(Reminder/Due: Nov 19, 2026)*
+* Evaluate Claude Fable 5.2 & run /claude-api migrate audit *(Reminder/Due: Nov 18, 2026)*
+* Review ChatGPT Health Data Controls before Nov 19 change *(Reminder/Due: Nov 17, 2026)*
+* Test ChatGPT Oracle QuickStart ($250 credit) & Accounting plugins *(Reminder/Due: Nov 16, 2026)*
 * Attend Zapier webinar: What AI workflows cost at scale (Nov 12) *(Reminder/Due: Nov 10, 2026)*
 * Claim free monthly ChatGPT Ads credits for Reimer Original *(Reminder/Due: Nov 9, 2026)*
 * Regenerate GitHub PAT 'Daily Sync' before expiration *(Reminder/Due: Nov 8, 2026)*
