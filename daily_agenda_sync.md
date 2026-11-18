@@ -1,20 +1,16 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** November 17, 2026
+**Last Updated:** November 18, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Nov 17 – Nov 24, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Nov 18 – Nov 25, 2026)
 
 
-* **Peloton: 30 min Chest & Back (Jermaine Johnson)**
-  * **Date/Time:** Nov 17, 2026, 09:00 AM – 09:30 AM PST
-  * **Calendar:** Primary
-  * **Notes:** Class: https://members.onepeloton.com/classes/strength/?modal=classDetailsModal&classId=4726d2bdfcaf4c5abb6cf23fdad5fd09&categorySlug=strength Weights: rows 45-52.5 lb, chest press 45-50 lb, reverse f
 * **Peloton: 45 min Full Body (Jermaine Johnson)**
   * **Date/Time:** Nov 19, 2026, 09:00 AM – 09:45 AM PST
   * **Calendar:** Primary
@@ -34,7 +30,6 @@
 * Test ChatGPT Oracle QuickStart ($250 credit) & Accounting plugins *(Reminder/Due: Nov 16, 2026)*
 * Attend Zapier webinar: What AI workflows cost at scale (Nov 12) *(Reminder/Due: Nov 10, 2026)*
 * Claim free monthly ChatGPT Ads credits for Reimer Original *(Reminder/Due: Nov 9, 2026)*
-* Regenerate GitHub PAT 'Daily Sync' before expiration *(Reminder/Due: Nov 8, 2026)*
 * Assess ChatGPT Business Premium 2x allowance & unified Work tab *(Reminder/Due: Nov 5, 2026)*
 * Benchmark AssemblyAI-TTS-1 & Anam Cara-4.1 for voice agents *(Reminder/Due: Nov 4, 2026)*
 * Evaluate Jev for Images for low-cost visual classification *(Reminder/Due: Nov 3, 2026)*
