@@ -1,20 +1,17 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** November 19, 2026
+**Last Updated:** November 20, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Nov 19 – Nov 26, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Nov 20 – Nov 27, 2026)
 
 
-* **Peloton: 45 min Full Body (Jermaine Johnson)**
-  * **Date/Time:** Nov 19, 2026, 09:00 AM – 09:45 AM PST
-  * **Calendar:** Primary
-  * **Notes:** Class: https://members.onepeloton.com/classes/strength/?modal=classDetailsModal&classId=16a879c99e354820a58078be2ae510c9&categorySlug=strength Weights: RDL + rows 50-52.5 lb, goblet squat 52.5, overhe
+*No events scheduled for the next 7 days.*
 
 
 ---
