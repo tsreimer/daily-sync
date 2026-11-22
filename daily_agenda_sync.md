@@ -1,14 +1,14 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** November 21, 2026
+**Last Updated:** November 22, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Nov 21 – Nov 28, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Nov 22 – Nov 29, 2026)
 
 
 *No events scheduled for the next 7 days.*
@@ -21,6 +21,7 @@
 
 
 ### Default List
+* Follow up with Carla Agustin / Jay on Skool *(Reminder/Due: Nov 29, 2026)*
 * Check OpenAI $500/mo API credit eligibility & Sign in with ChatGPT tools *(Reminder/Due: Nov 19, 2026)*
 * Claim free monthly ChatGPT Ads credits for Reimer Original *(Reminder/Due: Nov 9, 2026)*
 
