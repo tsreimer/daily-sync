@@ -1,14 +1,14 @@
 ﻿# Daily Sync Package: Google Tasks & Calendar
 
 
-**Last Updated:** November 23, 2026
+**Last Updated:** November 24, 2026
 **Target:** ChatGPT Context / Daily Briefing
 
 
 ---
 
 
-## 📅 Upcoming Calendar Events (Next 7 Days: Nov 23 – Nov 30, 2026)
+## 📅 Upcoming Calendar Events (Next 7 Days: Nov 24 – Dec 1, 2026)
 
 
 *No events scheduled for the next 7 days.*
@@ -21,6 +21,10 @@
 
 
 ### Default List
+* Register for Zapier 'Stop building in Zapier' webinar (Dec 2) *(Reminder/Due: Nov 29, 2026)*
+* Test Claude Code experimental Code Mode & Refero/AssemblyAI MCPs *(Reminder/Due: Nov 26, 2026)*
+* Use Google Voice (714) 987-2221 before Dec 17 expiration *(Reminder/Due: Nov 24, 2026)*
+* Review ChatGPT Workspace admins before Nov 24 change *(Reminder/Due: Nov 22, 2026)*
 * Follow up with Carla Agustin / Jay on Skool *(Reminder/Due: Nov 29, 2026)*
 * Check OpenAI $500/mo API credit eligibility & Sign in with ChatGPT tools *(Reminder/Due: Nov 19, 2026)*
 * Claim free monthly ChatGPT Ads credits for Reimer Original *(Reminder/Due: Nov 9, 2026)*
